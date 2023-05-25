@@ -15,7 +15,7 @@
 * GroupBy & Aggregation
 * Writing Dataframes to Files
 
-#### Installation
+## Installation
 * !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 * !wget -q http://archive.apache.org/dist/spark/spark-3.1.1/spark-3.1.1-bin-hadoop3.2.tgz
 * !tar xf spark-3.1.1-bin-hadoop3.2.tgz
